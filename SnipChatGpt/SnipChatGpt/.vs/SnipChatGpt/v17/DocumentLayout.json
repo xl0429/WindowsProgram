@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|c:\\project\\snipchatgpt\\snipchatgpt\\snipchatgpt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|solutionrelative:snipchatgpt\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|c:\\project\\snipchatgpt\\snipchatgpt\\snipchatgpt\\cropform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|solutionrelative:snipchatgpt\\cropform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|c:\\project\\snipchatgpt\\snipchatgpt\\snipchatgpt\\cropform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|solutionrelative:snipchatgpt\\cropform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|c:\\project\\snipchatgpt\\snipchatgpt\\snipchatgpt\\cropform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|solutionrelative:snipchatgpt\\cropform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|c:\\project\\snipchatgpt\\snipchatgpt\\snipchatgpt\\cropform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37B07AD-8F50-4B27-96D5-84F8492A3C01}|SnipChatGpt\\SnipChatGpt.csproj|solutionrelative:snipchatgpt\\cropform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CropForm.cs",
+              "DocumentMoniker": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.cs",
+              "RelativeDocumentMoniker": "SnipChatGpt\\CropForm.cs",
+              "ToolTip": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.cs",
+              "RelativeToolTip": "SnipChatGpt\\CropForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:42:17.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CropForm.cs [Design]",
+              "DocumentMoniker": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.cs",
+              "RelativeDocumentMoniker": "SnipChatGpt\\CropForm.cs",
+              "ToolTip": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.cs [Design]",
+              "RelativeToolTip": "SnipChatGpt\\CropForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:42:15.625Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CropForm.Designer.cs",
+              "DocumentMoniker": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.Designer.cs",
+              "RelativeDocumentMoniker": "SnipChatGpt\\CropForm.Designer.cs",
+              "ToolTip": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.Designer.cs",
+              "RelativeToolTip": "SnipChatGpt\\CropForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:42:15.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CropForm.resx",
+              "DocumentMoniker": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.resx",
+              "RelativeDocumentMoniker": "SnipChatGpt\\CropForm.resx",
+              "ToolTip": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\CropForm.resx",
+              "RelativeToolTip": "SnipChatGpt\\CropForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-14T08:42:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\MainForm.cs",
+              "RelativeDocumentMoniker": "SnipChatGpt\\MainForm.cs",
+              "ToolTip": "C:\\Project\\SnipChatGpt\\SnipChatGpt\\SnipChatGpt\\MainForm.cs",
+              "RelativeToolTip": "SnipChatGpt\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:47:45.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
